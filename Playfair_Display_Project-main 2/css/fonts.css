@@ -1,0 +1,13 @@
+@font-face{
+    font-family: "PlayfairDisplay-Regular";
+    src: url("../fonts/PlayfairDisplay-Regular.otf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: "PlayfairDisplay-Semibold";
+    src: url("../fonts/playfair-display-semibold.ttf");
+    font-style: normal;
+    font-weight: normal;
+}

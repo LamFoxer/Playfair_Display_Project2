@@ -1,0 +1,134 @@
+body{
+    width: 100%;
+    overflow-x: hidden;
+}
+h1{
+    font-size: 40px;
+    color: #D5B678;
+    font-family: "PlayfairDisplay-Semibold";
+}
+h2{
+    font-size: 22px;
+    color: #D5B678;
+    font-family: "PlayfairDisplay-Regular";
+}
+h3{
+    font-size: 20px;
+    color: #D5B678;
+    font-family: "PlayfairDisplay-Regular";
+}
+
+
+/* первый экран */
+.screen1{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin: 0 auto;
+    background-image: url("../img/planet1.png");
+}
+.s1t1{
+    width: 200px;
+    margin-top: -53.8%;
+    margin-left: 50.7%;
+}
+.s1t2{
+    width: 250px;
+    margin-top: 17.6%;
+    margin-left: 69.7%;
+}
+
+/* второй экран */
+.screen2{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin: 0 auto;
+    background-image: url("../img/s2_stars.png");
+}
+.planet2{
+    width: 586px;
+    margin-top: -45%;
+    margin-left: 13%;
+}
+.s2t1{
+    width: 500px;
+    margin-top: -27%;
+    margin-left: 60%;
+}
+.s2t2{
+    width: 400px;
+    margin-top: 0.5%;
+    margin-left: 63.9%;
+}
+.line{
+    width: 654px;
+    margin-top: -1%;
+    margin-left: 53.5%;
+}
+
+/* третий экран */
+.screen3{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    margin-top: -19%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url("../img/s3_stars.png");
+}
+.s3_picture1{
+    width: 611px;
+    margin-top: -41.5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.circle{
+    width: 22px; 
+    height: 22px;
+    border-color: #D5B678;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-radius: 50%;
+}
+/* левая коллонка */
+.s3t1left{
+    width: 100px;
+    height: 25px;
+    margin-top: -32%;
+    margin-left: 20%;
+}
+.s3t2left{
+    width: 100px;
+    height: 25px;
+    margin-top: 5%;
+    margin-left: 20%;
+}
+.s3t3left{
+    width: 100px;
+    height: 25px;
+    margin-top: -32%;
+    margin-left: 20%;
+}
+.s3t4left{
+    width: 100px;
+    height: 25px;
+    margin-top: -32%;
+    margin-left: 20%;
+}.s3t5left{
+    width: 100px;
+    height: 25px;
+    margin-top: -32%;
+    margin-left: 20%;
+}.s3t6left{
+    width: 100px;
+    height: 25px;
+    margin-top: -32%;
+    margin-left: 20%;
+}
+/* правая коллонка */
+.s3t1right{
+    width: 100px;
+    margin-top: 0.5%;
+    margin-left: 63.9%;
+}
